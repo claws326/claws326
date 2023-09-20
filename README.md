@@ -1,7 +1,7 @@
 <h1>Olá!👋</h1>
 
 <h2>Meu nome é Pedro Bandeira</h2>
-<h3>Sou um programador júnior de 19 anos do Brazil  com muita paixão e dedicação para programação. Grande parte do meu tempo eu procuro melhorar minhas habilidades e estudar mais sobre minha área. Gosto de passar meu tempo livre jogando diversos tipos de jogos digitais.</h3><br>
+<h3>Sou um programador júnior de 20 anos do Brasil  com muita paixão e dedicação para programação. Grande parte do meu tempo eu procuro melhorar minhas habilidades e estudar mais sobre minha área. Gosto de passar meu tempo livre jogando diversos tipos de jogos digitais.</h3><br>
 
 ![claws326 GitHub stats](https://github-readme-stats.vercel.app/api?username=claws326&show_icons=true&theme=radical)
 
