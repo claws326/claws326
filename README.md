@@ -1,7 +1,7 @@
 <h1>Olá!👋</h1>
 
 <h2>Meu nome é Pedro Bandeira</h2>
-<h3>Sou um programador júnior de 21 anos do Brasil com muita paixão e dedicação para programação. Grande parte do meu tempo eu procuro melhorar minhas habilidades e estudar mais sobre minha área. Atualmente estudando para certificado CTFL e engajando em projetos para movimentar meu GitHub</h3><br>
+<h3>Tenho 22 anos e muita paixão e dedicação para programação. Grande parte do meu tempo eu procuro melhorar minhas habilidades e estudar mais sobre minha área. Atualmente estudando para certificado CTFL e engajando em projetos para movimentar meu GitHub</h3><br>
 
 ![claws326 GitHub stats](https://github-readme-stats.vercel.app/api?username=claws326&show_icons=true&theme=radical)
 
