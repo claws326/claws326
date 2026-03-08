@@ -3,8 +3,6 @@
 <h2>Meu nome é Pedro Bandeira</h2>
 <h3>Tenho 22 anos e muita paixão e dedicação para programação. Grande parte do meu tempo eu procuro melhorar minhas habilidades e estudar mais sobre minha área. Atualmente estudando para certificado CTFL e engajando em projetos para movimentar meu GitHub</h3><br>
 
-![claws326 GitHub stats](https://github-readme-stats.vercel.app/api?username=claws326&show_icons=true&theme=radical)
-
 <h1>Conhecimentos</h1>
 <div>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
